@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/albumpage/static/css/main.6a8ebc5b.css",
+    "main.js": "/albumpage/static/js/main.8ee3b3a5.js",
+    "static/js/453.964b9c41.chunk.js": "/albumpage/static/js/453.964b9c41.chunk.js",
+    "index.html": "/albumpage/index.html",
+    "main.6a8ebc5b.css.map": "/albumpage/static/css/main.6a8ebc5b.css.map",
+    "main.8ee3b3a5.js.map": "/albumpage/static/js/main.8ee3b3a5.js.map",
+    "453.964b9c41.chunk.js.map": "/albumpage/static/js/453.964b9c41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a8ebc5b.css",
+    "static/js/main.8ee3b3a5.js"
+  ]
+}
